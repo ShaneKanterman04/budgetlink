@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <>
-    <p>index page</p>
+    <p>budget page</p>
     </>
     
   );
